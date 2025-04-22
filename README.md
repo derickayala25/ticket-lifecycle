@@ -2,6 +2,18 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
+<div align="center">
+
+### 👉 [Part 1: Prerequisites & osTicket Installation](https://github.com/drewmarsh/osTicket-installation)
+### 👉 [Part 2: Post-Installation Configuration](https://github.com/derickayala25/post-install-config)
+### 📍 Part 3: Ticket Lifecycle Demo
+
+</div>
+
+
+
+
+
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
