@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 👉 [Part 1: Prerequisites & osTicket Installation](https://github.com/drewmarsh/osTicket-installation)
+### 👉 [Part 1: Prerequisites & osTicket Installation](https://github.com/derickayala25/osticket-prereqs)
 ### 👉 [Part 2: Post-Installation Configuration](https://github.com/derickayala25/post-install-config)
 ### 📍 Part 3: Ticket Lifecycle Demo
 
