@@ -46,14 +46,17 @@ We will create a ticket as an end user. To do this, we will navigate to http://l
 1. Click on the blue `Open a New Ticket` button.
 2. Required fields are <b>Email Address</b>, <b>Full Name</b>, <b>Help Topic</b>, and an <b>Issue Summary</b>.
 3. The enduser will be Karen, her email is karen@enduser.com, and the entire graphics department is unable to access Adobe Creative Cloud.
-4. She will select the <b>Help Topic</b> <em>Report a Problem/Access Issue</em><br />
+4. She will select the <b>Help Topic</b> <em>Report a Problem/Access Issue</em>.
 
 <p>
 <img src="https://github.com/user-attachments/assets/83e89bae-71ef-47e8-9bbb-735668d9a912" height="80%" width="80%" alt="New Ticket"/>
 </p>
 
+5. Once the information has been entered Karen will click the `Create Ticket` button and will receive a confirmation message.
 
-
+<p>
+<img src="https://github.com/user-attachments/assets/9ea1afb4-7b18-417c-8afc-1e6a53aee7a2" height="80%" width="80%" alt="New Ticket"/>
+</p>
 
 
 <p align="center">
