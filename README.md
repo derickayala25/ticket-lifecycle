@@ -58,6 +58,42 @@ We will create a ticket as an end user. To do this, we will navigate to http://l
 <img src="https://github.com/user-attachments/assets/9ea1afb4-7b18-417c-8afc-1e6a53aee7a2" height="80%" width="80%" alt="New Ticket"/>
 </p>
 
+<b>Signing in as Administrator</b></br>
+The administrator will sign it to osTicket using this link http://localhost/osTicket/scp/login.php. Karen's request will appear in the queue.
+
+<p>
+<img src="https://github.com/user-attachments/assets/0f120974-1e52-4921-b8ad-fe2bf5e2eb28" height="80%" width="80%" alt="Admin Open Tickets"/>
+</p>
+
+
+<b>Assigning the ticket to an Agent</b></br>
+The administrator will assign Karen's ticket to John.
+1. From the <b>Agent Panel</b> the Admin will open the ticket.
+2. After reading the request, he will adjust, if necessary, the <b>Priority</b>, <b>Department</b>, <b>Assigned To</b> and <b>SLA Plan</b>
+3. This request will be updated to an <b>Emergency</b> and assigned to John in the <b>In-House Systems</b> team. The <b>SLA Plan</b> will be updated
+   to <em>Sev-A</em>.
+
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/0f120974-1e52-4921-b8ad-fe2bf5e2eb28" height="80%" width="80%" alt="Admin Open Tickets"/>
+</p>
+
+
+1. Click on the blue `Open a New Ticket` button.
+2. Required fields are <b>Email Address</b>, <b>Full Name</b>, <b>Help Topic</b>, and an <b>Issue Summary</b>.
+3. The enduser will be Karen, her email is karen@enduser.com, and the entire graphics department is unable to access Adobe Creative Cloud.
+4. She will select the <b>Help Topic</b> <em>Report a Problem/Access Issue</em>.
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
   <a href="https://github.com/drewmarsh/osTicket-ticket-lifecycle-demo">
