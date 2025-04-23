@@ -59,7 +59,8 @@ We will create a ticket as an end user. To do this, we will navigate to http://l
 </p>
 
 <b>Signing in as Administrator</b></br>
-The administrator will sign it to osTicket using this link http://localhost/osTicket/scp/login.php. Karen's request will appear in the queue.
+The administrator will sign it to osTicket using this link http://localhost/osTicket/scp/login.php. Karen's request will, by default, be</br>
+directed to the <b>Support</b> department, which the administrator is a part of.
 
 <p>
 <img src="https://github.com/user-attachments/assets/0f120974-1e52-4921-b8ad-fe2bf5e2eb28" height="80%" width="80%" alt="Admin Open Tickets"/>
@@ -69,14 +70,12 @@ The administrator will sign it to osTicket using this link http://localhost/osTi
 <b>Assigning the ticket to an Agent</b></br>
 The administrator will assign Karen's ticket to John.
 1. From the <b>Agent Panel</b> the Admin will open the ticket.
-2. After reading the request, he will adjust, if necessary, the <b>Priority</b>, <b>Department</b>, <b>Assigned To</b> and <b>SLA Plan</b>
-3. This request will be updated to an <b>Emergency</b> and assigned to John in the <b>In-House Systems</b> team. The <b>SLA Plan</b> will be updated
-   to <em>Sev-A</em>.
-
-
+2. After reading the request, he will adjust, if necessary, the <b>Priority</b>, <b>SLA Plan</b>, <b>Assigned To</b> and <b>Department</b>.
+3. This request will be updated to an <b>Emergency</b> and the <b>SLA Plan</b> will be updated to <em>Sev-A</em>.
+4. Once that's done, the ticket will be assigned to John as he's part of the <b>In-House Systems</b> team that handles these requests.
 
 <p>
-<img src="https://github.com/user-attachments/assets/0f120974-1e52-4921-b8ad-fe2bf5e2eb28" height="80%" width="80%" alt="Admin Open Tickets"/>
+<img src="https://github.com/user-attachments/assets/9b6f5f19-3c97-48f2-96e5-94118b579cde" height="80%" width="80%" alt="Admin Open Tickets"/>
 </p>
 
 
