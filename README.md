@@ -2,11 +2,9 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<div align="center">
-
-### 👉 [Part 1: Prerequisites & osTicket Installation](https://github.com/derickayala25/osticket-prereqs)
+### 📍 [Part 1: Prerequisites & osTicket Installation](https://github.com/derickayala25/osticket-prereqs)
 ### 👉 [Part 2: Post-Installation Configuration](https://github.com/derickayala25/post-install-config)
-### 📍 Part 3: Ticket Lifecycle Demo
+### 👉 Part 3: Ticket Lifecycle Demo
 
 </div>
 
@@ -27,6 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- osTicket (Help Desk Customer Support Software)
 
 <h2>Operating Systems Used </h2>
 
@@ -41,13 +40,21 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+<b>Opening a New Ticket</b></br>
+We will create a ticket as an end user. To do this, we will navigate to http://localhost/osTicket/. This will open the end-user support center.
+
+1. Click on the blue `Open a New Ticket` button.
+2. Required fields are <b>Email Address</b>, <b>Full Name</b>, <b>Help Topic</b>, and an <b>Issue Summary</b>.
+3. The enduser will be Karen, her email is karen@enduser.com, and the entire graphics department is unable to access Adobe Creative Cloud.
+4. She will select the <b>Help Topic</b> <em>Report a Problem/Access Issue</em><br />
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/83e89bae-71ef-47e8-9bbb-735668d9a912" height="80%" width="80%" alt="New Ticket"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+
+
+
 
 <p align="center">
   <a href="https://github.com/drewmarsh/osTicket-ticket-lifecycle-demo">
