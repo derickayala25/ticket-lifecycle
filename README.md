@@ -79,16 +79,18 @@ The administrator will assign Karen's ticket to John.
 </p>
 
 <b>Working the ticket as the Agent</b></br>
-John will receive the ticket in his queue. After he takes inventory of the <b>Priority</b> he can start looking for a resolution.</br>
-He may post a reply to Karen detailing next steps or start looking for a resolution to the issue. John finds that a recent update has bugs that don't allow Adobe Creative
+John will receive the ticket in his queue.</br>
+
+<p>
+<img src="https://github.com/user-attachments/assets/e2cf91d9-5761-4503-bc12-4f88de7d991b" height="80%" width="80%" alt="Admin Open Tickets"/>
+</p>
+
+After he takes inventory of the ticket details he can start looking for a resolution. He may post a reply to Karen detailing next steps or start looking for a resolution to the issue. John finds that a recent update has bugs that don't allow Adobe Creative
 Suite to run. He rolls back the update and emails Karen, asking her if Adobe is working now.
 
 
-![image](https://github.com/user-attachments/assets/e2cf91d9-5761-4503-bc12-4f88de7d991b)
 
 ![image](https://github.com/user-attachments/assets/a5cfd883-e08e-47c6-b2bf-69d6800d226b)
-
-![image](https://github.com/user-attachments/assets/278fddc1-5826-47ab-aa5c-ecec055668bf)
 
 
 <b>Closing out the ticket</b></br>
@@ -99,7 +101,25 @@ he will click on the orange `Post Reply` button.
 <img src="https://github.com/user-attachments/assets/278fddc1-5826-47ab-aa5c-ecec055668bf" height="80%" width="80%" alt="Admin Open Tickets"/>
 </p>
 
+<b>Ticket queue after closing out the request</b></br>
+After posting the reply to Karen, osTicket will take you to the Open Tickets queue. Karen's request has been archived.
 
+<p>
+<img src="https://github.com/user-attachments/assets/93901f4b-019a-4ff0-8fb8-e936dfc73a95" height="80%" width="80%" alt="Admin Open Tickets"/>
+</p>
+
+Now, even though John closed the ticket, since the ticket was not transfered from the Support department to SysAdmins, he will not see it in his Closed tickets queue. 
+
+<p>
+<img src="https://github.com/user-attachments/assets/f57192be-1e08-425e-bcd1-9d5bba203ebf" height="80%" width="80%" alt="Admin Open Tickets"/>
+</p>
+
+
+Joe, however, will be able to see it and see that it was closed by John.
+
+<p>
+<img src="https://github.com/user-attachments/assets/012464ed-7f3e-45f9-8184-b95a68f9d6f2" height="80%" width="80%" alt="Admin Open Tickets"/>
+</p>
 
 
 1. Click on the blue `Open a New Ticket` button.
