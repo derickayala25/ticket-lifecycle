@@ -78,6 +78,29 @@ The administrator will assign Karen's ticket to John.
 <img src="https://github.com/user-attachments/assets/9b6f5f19-3c97-48f2-96e5-94118b579cde" height="80%" width="80%" alt="Admin Open Tickets"/>
 </p>
 
+<b>Working the ticket as the Agent</b></br>
+John will receive the ticket in his queue. After he takes inventory of the <b>Priority</b> he can start looking for a resolution.</br>
+He may post a reply to Karen detailing next steps or start looking for a resolution to the issue. John finds that a recent update has bugs that don't allow Adobe Creative
+Suite to run. He rolls back the update and emails Karen, asking her if Adobe is working now.
+
+
+![image](https://github.com/user-attachments/assets/e2cf91d9-5761-4503-bc12-4f88de7d991b)
+
+![image](https://github.com/user-attachments/assets/a5cfd883-e08e-47c6-b2bf-69d6800d226b)
+
+![image](https://github.com/user-attachments/assets/278fddc1-5826-47ab-aa5c-ecec055668bf)
+
+
+<b>Closing out the ticket</b></br>
+Karen responds that everything's working correctly. John confirms receipt of the message and proceeds to close the ticket. In order to do this, he will change the <b>Ticket Status</b> from `Open (current)` to `Closed`. Then
+he will click on the orange `Post Reply` button.
+
+<p>
+<img src="https://github.com/user-attachments/assets/278fddc1-5826-47ab-aa5c-ecec055668bf" height="80%" width="80%" alt="Admin Open Tickets"/>
+</p>
+
+
+
 
 1. Click on the blue `Open a New Ticket` button.
 2. Required fields are <b>Email Address</b>, <b>Full Name</b>, <b>Help Topic</b>, and an <b>Issue Summary</b>.
