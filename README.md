@@ -130,6 +130,19 @@ Joe, however, will be able to see it and see that it was closed by John.
 
 
 
+![image](https://github.com/user-attachments/assets/5df82cbc-c43f-4a34-bd97-3cdac12e8a7b)
+
+![image](https://github.com/user-attachments/assets/dcef1cb2-7aff-4bbe-89af-155de754f19f)
+
+![image](https://github.com/user-attachments/assets/e409e4ac-2435-4ae2-a525-d6f3c8e6ca53)
+
+![image](https://github.com/user-attachments/assets/e069a890-cc62-4d3d-bf87-389eda2846ed)
+
+![image](https://github.com/user-attachments/assets/d47839f3-74c3-49ab-b9fd-bf3a5e76fc8a)
+
+![image](https://github.com/user-attachments/assets/31b44a78-0f62-46b5-a041-24240992c022)
+
+![image](https://github.com/user-attachments/assets/d3c99319-4019-4720-adad-15a0aff676c5)
 
 
 
@@ -150,6 +163,10 @@ Joe, however, will be able to see it and see that it was closed by John.
 ### 📍 Part 3: Ticket Lifecycle Demo
 
 </div>
+
+
+
+
 
 # 🧠 Technologies Used
 - osTicket (Help Desk Ticketing System)
