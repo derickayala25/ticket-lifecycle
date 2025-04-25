@@ -45,7 +45,7 @@ We will create a ticket as an end user. To do this, we will navigate to http://l
 
 1. Click on the blue `Open a New Ticket` button.
 2. Required fields are <b>Email Address</b>, <b>Full Name</b>, <b>Help Topic</b>, and an <b>Issue Summary</b>.
-3. The enduser will be Karen, her email is karen@enduser.com, and the entire graphics department is unable to access Adobe Creative Cloud.
+3. The enduser will be Karen, her email is karen@enduser.com, and her issue is that the entire graphics department is unable to access Adobe Creative Cloud.
 4. She will select the <b>Help Topic</b> <em>Report a Problem/Access Issue</em>.
 
 <p>
@@ -72,14 +72,14 @@ The administrator will assign Karen's ticket to John.
 1. From the <b>Agent Panel</b> the Admin will open the ticket.
 2. After reading the request, he will adjust, if necessary, the <b>Priority</b>, <b>SLA Plan</b>, <b>Assigned To</b> and <b>Department</b>.
 3. This request will be updated to an <b>Emergency</b> and the <b>SLA Plan</b> will be updated to <em>Sev-A</em>.
-4. Once that's done, the ticket will be assigned to John as he's part of the <b>In-House Systems</b> team that handles these requests.
+4. Once that's done, go to <b>Assigned To:</b> and assign the ticket to John, as he's part of the <b>In-House Systems</b> team that handles these requests.
 
 <p>
 <img src="https://github.com/user-attachments/assets/9b6f5f19-3c97-48f2-96e5-94118b579cde" height="80%" width="80%" alt="Admin Open Tickets"/>
 </p>
 
 <b>Working the ticket as the Agent</b></br>
-John will receive the ticket in his queue.</br>
+Log out as the administrator and log in as John. John will receive the ticket in his queue.</br>
 
 <p>
 <img src="https://github.com/user-attachments/assets/e2cf91d9-5761-4503-bc12-4f88de7d991b" height="80%" width="80%" alt="Admin Open Tickets"/>
@@ -94,7 +94,7 @@ Suite to run. He rolls back the update and emails Karen, asking her if Adobe is 
 
 
 <b>Closing out the ticket</b></br>
-Karen responds that everything's working correctly. John confirms receipt of the message and proceeds to close the ticket. In order to do this, he will change the <b>Ticket Status</b> from `Open (current)` to `Closed`. Then
+Karen responds that everything's working correctly. John confirms receipt of the message and proceeds to close the ticket. In order to do this, he will write a response to Karen, change the <b>Ticket Status</b> from `Open (current)` to `Closed`. Then
 he will click on the orange `Post Reply` button.
 
 <p>
@@ -102,13 +102,13 @@ he will click on the orange `Post Reply` button.
 </p>
 
 <b>Ticket queue after closing out the request</b></br>
-After posting the reply to Karen, osTicket will take you to the Open Tickets queue. Karen's request has been archived.
+After posting the reply to Karen, osTicket will take John to the Open Tickets queue. Karen's request has been archived.
 
 <p>
 <img src="https://github.com/user-attachments/assets/93901f4b-019a-4ff0-8fb8-e936dfc73a95" height="80%" width="80%" alt="Admin Open Tickets"/>
 </p>
 
-Now, even though John closed the ticket, since the ticket was not transfered from the Support department to SysAdmins, he will not see it in his Closed tickets queue. 
+Now, even though John closed the ticket, since the ticket was not transfered from the Support department to SysAdmins, he will not see it in his Closed tickets queue (update, he actually CAN see it). 
 
 <p>
 <img src="https://github.com/user-attachments/assets/f57192be-1e08-425e-bcd1-9d5bba203ebf" height="80%" width="80%" alt="Admin Open Tickets"/>
