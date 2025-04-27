@@ -56,7 +56,7 @@ We will create a ticket as an end user. To do this, we will navigate to http://l
 
 <p>
 <img src="https://github.com/user-attachments/assets/9ea1afb4-7b18-417c-8afc-1e6a53aee7a2" height="80%" width="80%" alt="New Ticket"/>
-</p>
+</p></br>
 
 <b>Signing in as Administrator</b></br>
 The administrator will sign it to osTicket using this link http://localhost/osTicket/scp/login.php. Karen's request will, by default, be</br>
@@ -64,7 +64,7 @@ directed to the <b>Support</b> department, which the administrator is a part of.
 
 <p>
 <img src="https://github.com/user-attachments/assets/0f120974-1e52-4921-b8ad-fe2bf5e2eb28" height="80%" width="80%" alt="Admin Open Tickets"/>
-</p>
+</p></br>
 
 
 <b>Assigning the ticket to an Agent</b></br>
@@ -76,7 +76,7 @@ The administrator will assign Karen's ticket to John.
 
 <p>
 <img src="https://github.com/user-attachments/assets/9b6f5f19-3c97-48f2-96e5-94118b579cde" height="80%" width="80%" alt="Admin Open Tickets"/>
-</p>
+</p></br>
 
 <b>Working the ticket as the Agent</b></br>
 Log out as the administrator and log in as John. John will receive the ticket in his queue.</br>
@@ -99,7 +99,7 @@ he will click on the orange `Post Reply` button.
 
 <p>
 <img src="https://github.com/user-attachments/assets/278fddc1-5826-47ab-aa5c-ecec055668bf" height="80%" width="80%" alt="Admin Open Tickets"/>
-</p>
+</p></br>
 
 <b>Ticket queue after closing out the request</b></br>
 After posting the reply to Karen, osTicket will take John to the Open Tickets queue. Karen's request has been moved to the `Closed` tickets tab.
