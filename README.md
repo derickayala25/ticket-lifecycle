@@ -102,25 +102,21 @@ he will click on the orange `Post Reply` button.
 </p>
 
 <b>Ticket queue after closing out the request</b></br>
-After posting the reply to Karen, osTicket will take John to the Open Tickets queue. Karen's request has been archived.
+After posting the reply to Karen, osTicket will take John to the Open Tickets queue. Karen's request has been moved to the `Closed` tickets tab.
 
 <p>
 <img src="https://github.com/user-attachments/assets/93901f4b-019a-4ff0-8fb8-e936dfc73a95" height="80%" width="80%" alt="Admin Open Tickets"/>
-</p>
-
-Now, even though John closed the ticket, since the ticket was not transfered from the Support department to SysAdmins, he will not see it in his Closed tickets queue (update, he actually CAN see it). 
+</p> 
 
 <p>
-<img src="https://github.com/user-attachments/assets/f57192be-1e08-425e-bcd1-9d5bba203ebf" height="80%" width="80%" alt="Admin Open Tickets"/>
+<img src="https://github.com/user-attachments/assets/2a865b63-d3dd-4fce-8c30-783ae49e2874" height="80%" width="80%" alt="Admin Open Tickets"/>
 </p>
 
-
-Joe, however, will be able to see it and see that it was closed by John.
+Joe also will be able to see it and see that it was closed by John.
 
 <p>
-<img src="https://github.com/user-attachments/assets/012464ed-7f3e-45f9-8184-b95a68f9d6f2" height="80%" width="80%" alt="Admin Open Tickets"/>
+<img src="https://github.com/user-attachments/assets/d8d7fda2-dbab-4d15-ac69-983754118de2" height="80%" width="80%" alt="Admin Open Tickets"/>
 </p>
-
 
 1. Click on the blue `Open a New Ticket` button.
 2. Required fields are <b>Email Address</b>, <b>Full Name</b>, <b>Help Topic</b>, and an <b>Issue Summary</b>.
